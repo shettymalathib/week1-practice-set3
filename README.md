@@ -24,16 +24,30 @@ The objective of this repository is to practice Linux commands, Bash scripting, 
 ```text
 week1-practice-set3/
 │
+├── Practice from file-management scripts
+│   ├── file1.txt
+│   └── file2.txt
 ├── README.md
-├── .gitignore
-├── linux/
+├── linux
 │   ├── linux-cheatsheet.md
 │   └── linux-commands.md
-├── scripts/
-│   ├── backup.sh
-│   ├── system-health.sh
-│   └── file-management.sh
-└── screenshots/
+├── screenshots
+│   ├── Linux-commands-1.png
+│   ├── Linux-commands-2.png
+│   ├── Linux-commands-3.png
+│   ├── Linux-commands-4.png
+│   ├── Linux-commands-5.png
+│   ├── back-up.png
+│   ├── create files.png
+│   ├── file-management.png
+│   ├── git-commit.png
+│   └── system-health-script.png
+└── scripts
+    ├── backup.sh
+    ├── file-management.sh
+    └── system-health.sh
+
+5 directories, 18 files
 ```
 
 ---

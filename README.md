@@ -79,7 +79,7 @@ Demonstrates common Linux file operations, including:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Ubuntu 24.04 LTS (WSL2)
 - Bash

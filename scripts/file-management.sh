@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Creating Practice directory..."
-mkdir -p Practice from file-management.sh
+mkdir -p Practice from file-management scripts
 
 echo "Creating files..."
 touch Practice/file1.txt

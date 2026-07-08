@@ -123,10 +123,13 @@ chmod +x scripts/file-management.sh
 
 The `screenshots` folder contains terminal screenshots demonstrating:
 
-- Linux command execution
-- Bash script execution
-- Git commands
-- Terminal output
+<img width="841" height="975" alt="image" src="https://github.com/user-attachments/assets/be33ab52-7aa8-49d8-afef-f96b53980582" />
+<img width="922" height="597" alt="image" src="https://github.com/user-attachments/assets/b7dc37f5-d346-483a-899c-b5798395a41f" />
+<img width="987" height="682" alt="image" src="https://github.com/user-attachments/assets/89a68cd4-33f7-4061-9b71-9437a1c23fa6" />
+<img width="1842" height="911" alt="image" src="https://github.com/user-attachments/assets/8cc9a3b7-0fc5-4685-8c35-fd5a0171ad54" />
+<img width="837" height="1017" alt="image" src="https://github.com/user-attachments/assets/90e156b0-7a23-477a-8a04-47bfada3ff54" />
+<img width="757" height="857" alt="image" src="https://github.com/user-attachments/assets/ad56ff95-f515-4a4e-8b8b-4a09191697b3" />
+
 
 ---
 

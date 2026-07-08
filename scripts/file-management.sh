@@ -1,16 +1,18 @@
 #!/bin/bash
 
-echo "Creating Practice directory..."
-mkdir -p Practice from file-management scripts
+DIR="Practice from file-management scripts"
+
+echo "Creating directory..."
+mkdir -p "$DIR"
 
 echo "Creating files..."
-touch Practice/file1.txt
+touch "$DIR/file1.txt"
 
-echo "Linux Practice" > Practice/file1.txt
+echo "Linux Practice" > "$DIR/file1.txt"
 
-cp Practice/file1.txt Practice/file2.txt
+cp "$DIR/file1.txt" "$DIR/file2.txt"
 
-echo "Files inside Practice directory:"
-ls -l Practice
+echo "Files inside the directory:"
+ls -l "$DIR"
 
 echo "Done!"

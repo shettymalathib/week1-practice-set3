@@ -19,3 +19,6 @@
 
 # JetBrains IDEs
 .idea/
+
+# Windows
+Thumbs.db
